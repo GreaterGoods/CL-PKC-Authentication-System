@@ -1,4 +1,5 @@
 # CL-PKC-Authentication-System
+# 以下是安装环境说明
 使用Ubuntu2204 ，先安装  
 g++  
 openssl 3.0.10  
